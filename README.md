@@ -30,3 +30,8 @@ python3 number_converter.py
 I learned how an operating system coordinates hardware and software, how terminal commands inspect and manage files, how programs execute, how numbers and text are encoded, and how Git and networks support reliable software sharing and communication.
 
 Each mission is documented in its own folder and was committed separately. Personal names, account names, private IP addresses, device names, Wi-Fi names, passwords, and tokens are not included in this repository.
+
+## My Learning
+
+- The terminal makes file and system operations visible through exact commands.
+- Git stages and commits changes so project history can be reviewed, shared, and recovered safely.
